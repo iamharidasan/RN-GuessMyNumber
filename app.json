@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RNCourse",
-    "slug": "RNCourse",
+    "name": "Guess My Number",
+    "slug": "guess-my-number",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Guess My Number created using React Native",
+    "githubUrl": "https://github.com/iamharidasan/RN-GuessMyNumber"
   }
 }
